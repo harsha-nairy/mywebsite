@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "harsharavikumar.com",
+    "name": "My Site",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -49,11 +49,11 @@
       }
     ],
     "uniqCompNum": 40,
-    "versionPublish": "5.5.0",
+    "versionPublish": "5.5.2",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "ctkvvroycd",
+    "mbrsiteDomain": "tk60z4rjct",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
